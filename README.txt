@@ -93,7 +93,7 @@ STEP 3: Start XAMPP Services
 
 STEP 4: Import Database
 ------------------------
-1. Open web browser and go to: http://localhost/phpmyadmin or http://localhost/sari_sari_store/code/index.php
+1. Open web browser and go to: http://localhost/phpmyadmin
 2. Click "New" on the left sidebar
 3. Database name: sari-sari_store_inventory_db
 4. Click "Create"
